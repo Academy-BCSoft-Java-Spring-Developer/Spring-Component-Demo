@@ -1,0 +1,30 @@
+# Compilazione Maven
+target/
+*.class
+
+# Eclipse
+.project
+.classpath
+.settings/
+.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+
+# IntelliJ IDEA / VS Code
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+
+# File di sistema
+.DS_Store
+Thumbs.db
+
+# Log
+*.log
